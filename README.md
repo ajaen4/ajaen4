@@ -13,11 +13,15 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 
 ### 🔖 Certifications
 
-- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/4408671a-9966-42fb-81c9-9ec8ef0ac2d4?source=linked_in_profile)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/3dd1fe4d-d675-4d10-8d59-b53de61e6790/linked_in_profile)
-- [Certified HashiCorp Terraform Associate](https://www.credly.com/badges/aff905f8-6ce1-458f-b1de-ab454a8baa39?source=linked_in_profile)
-- [Certified HashiCorp Implementation Partner (CHIP)](https://www.credly.com/badges/4201198c-4ed7-4f0e-8e80-d1248e3d1308/linked_in_profile)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7db92bb8-b9fe-4cae-aa25-4a20f0bc9d1c/linked_in_profile)
+- AWS
+  - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/4408671a-9966-42fb-81c9-9ec8ef0ac2d4?source=linked_in_profile)
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/3dd1fe4d-d675-4d10-8d59-b53de61e6790/linked_in_profile)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7db92bb8-b9fe-4cae-aa25-4a20f0bc9d1c/linked_in_profile)
+
+- HashiCorp
+  - [Certified HashiCorp Terraform Associate](https://www.credly.com/badges/aff905f8-6ce1-458f-b1de-ab454a8baa39?source=linked_in_profile)
+  - [Certified HashiCorp Implementation Partner (CHIP)](https://www.credly.com/badges/4201198c-4ed7-4f0e-8e80-d1248e3d1308/linked_in_profile)
+
 
 ### 🌱 I’m learning
 
