@@ -11,6 +11,13 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 
 </div>
 
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</div>
+
 ### 🔖 Certifications
 
 - AWS
@@ -21,14 +28,6 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 - HashiCorp
   - [Certified HashiCorp Terraform Associate](https://www.credly.com/badges/aff905f8-6ce1-458f-b1de-ab454a8baa39?source=linked_in_profile)
   - [Certified HashiCorp Implementation Partner (CHIP)](https://www.credly.com/badges/4201198c-4ed7-4f0e-8e80-d1248e3d1308/linked_in_profile)
-
-
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</div>
 
 ### 📰 Some of my writings
 
