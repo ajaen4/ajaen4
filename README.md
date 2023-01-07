@@ -29,7 +29,7 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7db92bb8-b9fe-4cae-aa25-4a20f0bc9d1c/linked_in_profile)
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hashicorp-FFFFFF.svg?style=for-the-badge&logoColor=black" alt="Hashicorp"/>
+  <img src="https://img.shields.io/badge/hashicorp-12100E.svg?style=for-the-badge" alt="Hashicorp"/>
 </div>
 
   - [Certified HashiCorp Terraform Associate](https://www.credly.com/badges/aff905f8-6ce1-458f-b1de-ab454a8baa39?source=linked_in_profile)
