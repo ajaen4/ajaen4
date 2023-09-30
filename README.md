@@ -8,14 +8,15 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
   <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
 </div>
 
 ### 🔖 Certifications
@@ -36,6 +37,8 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
   - [Certified HashiCorp Implementation Partner (CHIP)](https://www.credly.com/badges/4201198c-4ed7-4f0e-8e80-d1248e3d1308/linked_in_profile)
 
 ### 📰 Some of my writings
+- Streaming LakeHouse on AWS and Flink:
+  - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 1)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-1/)
 
 - Databricks on AWS with Terraform:
   - [Subscription types, High Level Architecture, Networking, Identity and Access Management](https://bluetab.net/en/databricks-sobre-aws-una-perspectiva-de-arquitectura-parte-1/)
