@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Warehouses and to automatize business processes.
+Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Warehouses to automatize business processes.
 
 **I love working with**
 
