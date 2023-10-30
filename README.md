@@ -38,6 +38,7 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 
 ### 📰 Some of my writings
 - Streaming LakeHouse on AWS and Flink:
+  - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 2)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-2/)
   - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 1)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-1/)
 
 - Databricks on AWS with Terraform:
