@@ -37,6 +37,7 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
   - [Certified HashiCorp Implementation Partner (CHIP)](https://www.credly.com/badges/4201198c-4ed7-4f0e-8e80-d1248e3d1308/linked_in_profile)
 
 ### 📰 Some of my writings
+- [Efficiency in the Fast Lane: Refining Redshift in a World That’s Always Rushing](https://medium.com/ostinato-rigore/efficiency-in-the-fast-lane-refining-redshift-in-a-world-thats-always-rushing-f0d537eadfef)
 - Streaming LakeHouse on AWS and Flink:
   - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 2)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-2/)
   - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 1)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-1/)
