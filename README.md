@@ -9,6 +9,8 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </div>
 
 ### 🌱 I’m learning
@@ -16,7 +18,6 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 <div display="flex">
   
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
 </div>
 
 ### 🔖 Certifications
