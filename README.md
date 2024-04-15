@@ -16,7 +16,7 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 ### 🌱 I’m learning
 
 <div display="flex">
-  
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
