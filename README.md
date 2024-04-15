@@ -16,7 +16,7 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
 ### 🌱 I’m learning
 
 <div display="flex">
-  
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
@@ -44,8 +44,6 @@ Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Wa
   - [LakeHouse Streaming on AWS with Apache Flink and Hudi (Part 2)](https://bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-2/)
 
 - Databricks on AWS with Terraform:
-  - [Subscription types, High Level Architecture, Networking, Identity and Access Management](https://bluetab.net/en/databricks-sobre-aws-una-perspectiva-de-arquitectura-parte-1/)
-  - [Security, Scalability, Billing and Deployment](https://www.bluetab.net/en/databricks-on-aws-an-architectural-perspective-part-2/)
   - [Deployment tutorial: Deploy Databricks on AWS with Terraform](https://medium.com/@a.jaenrev/deploy-databricks-on-aws-with-terraform-71772b4a04dc)
 
 ### 📫 How to reach me
