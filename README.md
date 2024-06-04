@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Cloud enthusiast. I'm using AWS, Python and Terraform to build Data Lakes and Warehouses to automatize business processes.
+I consider myself to be a generalist. I thrive in environments filled with uncertainty and enjoy taking ownership.
+
+I've built a strong balance of technical expertise and people skills through my experience founding a startup, leading cloud engineering teams and consulting in tech.
 
 **I love working with**
 
