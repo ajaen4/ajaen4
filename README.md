@@ -7,12 +7,12 @@ I've built a strong balance of technical expertise and people skills through my 
 **I love working with**
 
 <div display="flex">
+  <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
   <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </div>
 
