@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I consider myself to be a generalist. I thrive in environments filled with uncertainty and enjoy taking ownership.
-
 I've built a strong balance of technical expertise and people skills through my experience founding a startup, leading cloud engineering teams and consulting in tech.
 
 **I love working with**
