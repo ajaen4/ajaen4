@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I've built a strong balance of technical expertise and people skills through my experience founding a startup, leading cloud engineering teams and consulting in tech.
+I consider myself to be a generalist. I've built a strong balance of technical expertise and people skills through my experience founding a startup, leading cloud engineering teams and consulting in tech.
 
-**I love working with**
+**I like working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/pulumi-FFAA00.svg?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
@@ -12,15 +12,16 @@ I've built a strong balance of technical expertise and people skills through my 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
-### 🌱 I’m learning
+### 🔖 Certifications
 
 <div display="flex">
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
-### 🔖 Certifications
+- [Certified Kubernetes Admin (CKA)](https://www.credly.com/badges/8bee8086-7765-42af-b90f-65a54fe5acad/linked_in?t=shsf1w)
 
 <div display="flex">
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -58,7 +59,3 @@ I've built a strong balance of technical expertise and people skills through my 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-
-### ⚡ Fun fact
-
-Love always learning about new stuff, regardless of the field. Actually learning snowboard and golf.
