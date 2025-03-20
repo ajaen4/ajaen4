@@ -21,6 +21,7 @@ I consider myself to be a generalist. I've built a strong balance of technical e
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
+- [Istio Certified Associate (ICA)](https://www.credly.com/badges/845f6034-76a8-49ca-a904-cb9e26311ac9/public_url)
 - [Certified Kubernetes Admin (CKA)](https://www.credly.com/badges/8bee8086-7765-42af-b90f-65a54fe5acad/linked_in?t=shsf1w)
 
 <div display="flex">
